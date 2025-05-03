@@ -63,16 +63,13 @@ table th {
   background-color: #2c2c2c; /* Darker header background */
   font-weight: bold;
   color: #e0e0e0; /* Light text */
-  position: sticky;
-  top: 0;
-  z-index: 1; /* Ensure it stays above other content */
   font-size: 1.5em;
 }
 
 table tr td:first-child {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 table tr td:nth-child(2) {
-  font-size: 1.5em;
+  font-size: 1em;
 }
