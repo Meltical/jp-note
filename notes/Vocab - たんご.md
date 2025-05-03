@@ -1,0 +1,10 @@
+| [日本語]{にほんご} | Définition | Memo |
+| --- | --- | --- |
+| [新聞]{しんぶん} | newspaper | shin = new |
+| [読む]{よむ} | to read | Je mange tous ces livres > Yom yom yom |
+| [曲がる]{まがる} | to turn | Ma gar can bend, curve and turn dude |
+| [置く]{おく} | to put | oh, cute (OKU)! but, put it down before it bites you. |
+| [机]{つくえ} | desk | desukue -> tsukue |
+| [病院]{びょういん} | hospital | He got Byouin (brought in) to the hospital |
+| [返す]{かえす} | to return | Like return home (kaeru) but ends in “su” because you are returning SOUP (an item) and not through a ROUTE (to get home) |
+| [書く]{かく} | to write |  |

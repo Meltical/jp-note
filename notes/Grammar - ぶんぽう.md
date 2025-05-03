@@ -1,0 +1,10 @@
+| [日本語]{にほんご} | Définition | Memo |
+| --- | --- | --- |
+| のなかで~がいちばん | parmis ~ le meilleur |  |
+| より~のほうが | comparatif |  |
+| なに＋か / (なん)にか・か・にも・も | something |  |
+| だれか | someone |  |
+| どこか | where |  |
+| だれも | no one |  |
+| どこも | nowhere |  |
+| Verb 「i」 + ましょう | let's ... shall we ? ... |  |
