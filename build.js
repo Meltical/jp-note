@@ -1,30 +1,32 @@
-const fs = require("fs");
-const path = require("path");
-const furigana = require("furigana-markdown-it")();
-const markdownIt = require("markdown-it");
+const fs = require("fs")
+const path = require("path")
+const furigana = require("furigana-markdown-it")()
+const markdownIt = require("markdown-it")
 
-const md = markdownIt().use(furigana);
+const md = markdownIt({
+  html: true,
+}).use(furigana)
 
 // Directories
-const NOTES_DIR = path.join(__dirname, "notes");
-const DIST_DIR = path.join(__dirname, "dist");
-const PUBLIC_DIR = path.join(__dirname, "public");
-const DIST_PUBLIC_DIR = path.join(DIST_DIR, "public");
+const NOTES_DIR = path.join(__dirname, "notes")
+const DIST_DIR = path.join(__dirname, "dist")
+const PUBLIC_DIR = path.join(__dirname, "public")
+const DIST_PUBLIC_DIR = path.join(DIST_DIR, "public")
 
 function readFileSafe(filePath) {
   try {
-    return fs.readFileSync(filePath, "utf8");
+    return fs.readFileSync(filePath, "utf8")
   } catch (err) {
-    console.error(`Error reading file: ${filePath}`, err);
-    return null;
+    console.error(`Error reading file: ${filePath}`, err)
+    return null
   }
 }
 
 function writeFileSafe(filePath, content) {
   try {
-    fs.writeFileSync(filePath, content);
+    fs.writeFileSync(filePath, content)
   } catch (err) {
-    console.error(`Error writing file: ${filePath}`, err);
+    console.error(`Error writing file: ${filePath}`, err)
   }
 }
 
@@ -42,21 +44,21 @@ function generatePageHtml(content, title, isHomePage = false) {
   <body>
     ${content}
   </body>
-  </html>`;
+  </html>`
 }
 
 function generateHtml(markdownContent, title) {
-  const content = md.render(markdownContent);
-  return generatePageHtml(content, title);
+  const content = md.render(markdownContent)
+  return generatePageHtml(content, title)
 }
 
 function build() {
   if (!fs.existsSync(DIST_DIR)) {
-    fs.mkdirSync(DIST_DIR);
+    fs.mkdirSync(DIST_DIR)
   }
 
   if (!fs.existsSync(DIST_PUBLIC_DIR)) {
-    fs.mkdirSync(DIST_PUBLIC_DIR);
+    fs.mkdirSync(DIST_PUBLIC_DIR)
   }
 
   // Copy public assets
@@ -64,36 +66,34 @@ function build() {
     fs.copyFileSync(
       path.join(PUBLIC_DIR, file),
       path.join(DIST_PUBLIC_DIR, file)
-    );
-  });
+    )
+  })
 
   // Generate HTML for each note
-  const files = fs
-    .readdirSync(NOTES_DIR)
-    .filter((file) => file.endsWith(".md"));
+  const files = fs.readdirSync(NOTES_DIR).filter((file) => file.endsWith(".md"))
 
   files.forEach((file) => {
-    const noteName = path.basename(file, ".md");
-    const markdownContent = readFileSafe(path.join(NOTES_DIR, file));
+    const noteName = path.basename(file, ".md")
+    const markdownContent = readFileSafe(path.join(NOTES_DIR, file))
     if (markdownContent) {
-      const htmlContent = generateHtml(markdownContent, noteName);
-      writeFileSafe(path.join(DIST_DIR, `${noteName}.html`), htmlContent);
+      const htmlContent = generateHtml(markdownContent, noteName)
+      writeFileSafe(path.join(DIST_DIR, `${noteName}.html`), htmlContent)
     }
-  });
+  })
 
   // Generate index.html
   const links = files
     .map((file) => {
-      const name = path.basename(file, ".md");
-      return `<li><a href="${name}.html">${name}</a></li>`;
+      const name = path.basename(file, ".md")
+      return `<li><a href="${name}.html">${name}</a></li>`
     })
-    .join("");
+    .join("")
 
-  const content = `<h1>Notes</h1><ul>${links}</ul>`;
-  const indexHtml = generatePageHtml(content, "Notes", true);
+  const content = `<h1>Notes</h1><ul>${links}</ul>`
+  const indexHtml = generatePageHtml(content, "Notes", true)
 
-  writeFileSafe(path.join(DIST_DIR, "index.html"), indexHtml);
-  console.log("Static files generated in the 'dist' directory.");
+  writeFileSafe(path.join(DIST_DIR, "index.html"), indexHtml)
+  console.log("Static files generated in the 'dist' directory.")
 }
 
-build();
+build()
