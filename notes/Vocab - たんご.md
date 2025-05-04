@@ -13,3 +13,6 @@
 | [図書]{としょ} | book |  |
 | [図書館]{としょかん} | library | [図書]{としょ}　means book / ～かん building suffix |
 | [教室]{きょうしつ} | classroom | 　～しつ room suffix |
+| [旅行]{りょこう} | travel | 　 When you travel (ryokou) you might stay at a ryokan. |
+| [夏休み]{なつやすみ} | summer vacation | 　なつ = summer / やすみ = rest |
+| [走る]{はしる} | to run | Hush (はし)! Don't RUN when people are sleeping! |
