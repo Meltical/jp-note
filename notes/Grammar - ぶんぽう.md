@@ -17,3 +17,7 @@
 | Verb［て］+ くれる | Verb［て］+ [下]{くだ}さい | Please do |
 | Verb［ないで］+ くれる (too casual) | Verb［ないで］+ [下]{くだ}さい | Please don't |
 | て(just て form, used by men and women)/てくれ(mostly used by men)<br>てくれる<br>てくれない<br>てもらえる<br>てもらえない<br>てくれますか<br>てくれませんか<br>てください (there is a negative version - くださらない, but it is not used at all)<br>てもらえますか<br>てもらえませんか<br>てくださいますか<br>てくださいませんか？<br>ていただけますか<br>ていただけませんか？<br> |  | levels of politeness |
+| Verb［て］+ は + いけない<br>ては・ちゃ<br>では・じゃ | いけない・いけません - Fairly neutral. Used in both spoken and written language.<br>ならない - Fairly formal. Used mostly in written language.<br>だめ - Very casual. Used almost exclusively in spoken language. | Must not, may not |
+| Verb［~~ない~~］+ なくては + いけない<br>Verb［~~ない~~］+ なくちゃ + いけない | Same as above | Must do, have to do<br>いけない can be ommited = similar to 'gotta' |
+| Verb［た］+ [方]{ほう} + が + いい<br>Verb + [方]{ほう} + が + いい -> General meaning | +です | It'd be better to, Should do |
+| Verb［ない］+ [方]{ほう} + が + いい | +です | It'd be better not to, Shouldn't do |

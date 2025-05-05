@@ -16,3 +16,9 @@
 | [旅行]{りょこう} | travel | 　 When you travel (ryokou) you might stay at a ryokan. |
 | [夏休み]{なつやすみ} | summer vacation | 　なつ = summer / やすみ = rest |
 | [走る]{はしる} | to run | Hush (はし)! Don't RUN when people are sleeping! |
+| [持つ]{もつ} | to hold | I was holding (もつ) my luggage (にもつ). |
+| [野球]{やきゅう} | baseball | や is the sound of a pitcher throwing the ball and きゅう is the sound of a metal baseball bat (hitting a home run!) |
+| [喫茶店]{きっさてん} | coffee shop | I wanna KISS A TEN {きっさてん} I met at the cafe so bad, but I'm a six at best. She's way out of my league :( |
+| [砂糖]{さとう} | sugar |  |
+| [留学生]{りゅうがくせい} | exchange/overseas student |  |
+| [外国人]{がいこくじん} | foreigner | gaijin hunter |
