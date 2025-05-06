@@ -18,6 +18,10 @@
 | Verb［ないで］+ くれる (too casual) | Verb［ないで］+ [下]{くだ}さい | Please don't |
 | て(just て form, used by men and women)/てくれ(mostly used by men)<br>てくれる<br>てくれない<br>てもらえる<br>てもらえない<br>てくれますか<br>てくれませんか<br>てください (there is a negative version - くださらない, but it is not used at all)<br>てもらえますか<br>てもらえませんか<br>てくださいますか<br>てくださいませんか？<br>ていただけますか<br>ていただけませんか？<br> |  | levels of politeness |
 | Verb［て］+ は + いけない<br>ては・ちゃ<br>では・じゃ | いけない・いけません - Fairly neutral. Used in both spoken and written language.<br>ならない - Fairly formal. Used mostly in written language.<br>だめ - Very casual. Used almost exclusively in spoken language. | Must not, may not |
-| Verb［~~ない~~］+ なくては + いけない<br>Verb［~~ない~~］+ なくちゃ + いけない | Same as above | Must do, have to do<br>いけない can be ommited = similar to 'gotta' |
+| Verb［~~ない~~］+ なくては + いけない<br>Verb［~~ない~~］+ なくちゃ + いけない<br>なくては・なくちゃ<br>なければ・なきゃ | Same as above | Must do, have to do<br>いけない can be ommited = similar to 'gotta' |
 | Verb［た］+ [方]{ほう} + が + いい<br>Verb + [方]{ほう} + が + いい -> General meaning | +です | It'd be better to, Should do |
 | Verb［ない］+ [方]{ほう} + が + いい | +です | It'd be better not to, Shouldn't do |
+| Noun + や + Noun | や cannot be used after verb phrases. This is done with たり, or とか. | Things like, And the like |
+| Verb［た］+ こと + が + ある<br>Verb［た］+ こと + が + ない | Verb［た］+ こと + が + あります<br>Verb［た］+ こと + が + ありません | Have done before |
+| Verb［て］+ いる<br>Verb［て］+ る<br>Verb［~~て~~］ + **と**る | Verb［て］+ います<br>Verb［て］+ ます<br>Verb［~~て~~］ + **と**ります | Has/have done, Is doing (Repetition)<br>Often associated with [毎日]{まいにち}, [毎晩]{まいばん}, [毎週]{まいしゅう} |
+| ［い］Adjective［~~い~~］ + く + て<br>［な］Adjective + で<br> Noun + で |  | Linking - Like 'and' in English.<br>Reasons - Like 'with (A)', or 'because of (A)' in English.<br>Manner - Like 'to do (B) in an (A) way' in English. |

@@ -22,3 +22,6 @@
 | [砂糖]{さとう} | sugar |  |
 | [留学生]{りゅうがくせい} | exchange/overseas student |  |
 | [外国人]{がいこくじん} | foreigner | gaijin hunter |
+| [橋]{はし} | bridge | Dont run (はしる) on the bridge (はし) |
+| [果物]{くだもの} | fruit |  |
+| [着る]{きる} | to wear / to cut | Humans used to CUT (KILL) large animals and WEAR their hides. |
