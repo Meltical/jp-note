@@ -25,3 +25,6 @@
 | [橋]{はし} | bridge | Dont run (はしる) on the bridge (はし) |
 | [果物]{くだもの} | fruit |  |
 | [着る]{きる} | to wear / to cut | Humans used to CUT (KILL) large animals and WEAR their hides. |
+| [得意]{とくい} | good at - similar to [上手]{じょうず} but not arrogant when talking about yourself |  |
+| [薬]{くすり} | medicine | "kusu" sounds like sneezing, which may require medicine |
+| [開く]{ひらく} [開く]{あく} | to open ( Open something with 2 doors : ex : a gate, a book, a window with 2 panels, one's heart, a map, an umbrella, a flower (which bloom) etc. ) | Did you hear the musician who's the opening act for the festival? He rocks (ひらく)!<br>あく : concret, automatique.<br>ひらく : plus abstrait, actif, progressif ou symbolique. |
