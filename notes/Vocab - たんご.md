@@ -28,3 +28,4 @@
 | [得意]{とくい} | good at - similar to [上手]{じょうず} but not arrogant when talking about yourself |  |
 | [薬]{くすり} | medicine | "kusu" sounds like sneezing, which may require medicine |
 | [開く]{ひらく} [開く]{あく} | to open ( Open something with 2 doors : ex : a gate, a book, a window with 2 panels, one's heart, a map, an umbrella, a flower (which bloom) etc. ) | Did you hear the musician who's the opening act for the festival? He rocks (ひらく)!<br>あく : concret, automatique.<br>ひらく : plus abstrait, actif, progressif ou symbolique. |
+| あげる<br>くれる<br>もらう | moi → autre = don sortant<br> autre → moi = don entrant<br> autre → moi = je reçois |  |
