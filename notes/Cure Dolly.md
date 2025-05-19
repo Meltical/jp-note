@@ -2,9 +2,12 @@
 
 ### Logical Particles
 
+Only nouns can be used with logical particles.
+
 - **が** = subject marker
 - **を** = object marker
-- **に** = location marker (at, on, in ...)
+- **に** / **へ** = Where / In which direction
+- **で** = Where / With what
 - **の** = possessive marker (of)
 
 ### Non-Logical Particles
@@ -149,3 +152,43 @@ This way we can conjugate the adjective AND the verbs.
 | --- | --- |
 | ます (Formality helper-verb) | ません |
 | いい | よくない |
+
+## に Particle
+
+The に particle is used to describe the **target of an action**
+
+> Physical: Destination, location
+
+お店**に** 行く = Go **to the store**
+
+(へ particle means to **head** to.)
+
+> Emotional: Volitional target
+
+たまごを かい**に** 行く = Go **to buy** eggs
+
+In the same phrase, we can have 2 or more targets, like:
+
+お店**に** たまごを かい**に** 行く = Go **to the store**...**to buy** eggs
+
+> Transformation
+
+さくらは　かえる**に**　なった = Sakura **became** a frog
+
+ことし　十八さい**に**　なる = This year, I **will be** 18 years old
+
+## Desire (たい・がる)
+
+To describe a desire, we can use the helper adjective **たい** to the い-stem of the verb.
+
+私は　ケーキを　たべ**たい** = (Literally) As for me, cake is desire-inducing (eat)
+
+We can't affirm desire for someone else, but we can use the helper verb **がる**.
+
+- For verbs, we need to use the **～たい form**, to which we add the **がる** helper verb. => **たがる**
+
+さくらは　けーきが　たべ**たがる** = As for Sakure, cake is eat-want-inducing
+
+- For adjectives, we need to use the **い-stem** and add **がる**
+
+さくらは　けーきが　ほし**がる** = As for Sakure, cake is want-inducing
