@@ -192,3 +192,44 @@ We can't affirm desire for someone else, but we can use the helper verb **がる
 - For adjectives, we need to use the **い-stem** and add **がる**
 
 さくらは　けーきが　ほし**がる** = As for Sakure, cake is want-inducing
+
+## Potential え-stem + る/られる
+
+私は　本が　[読]{よ}め**る** = To me, the book is read-able
+
+私は　ケーキが　たべ**られる** = To me, the cake is eat-able
+
+**Irregulars:**
+| Verb | Potential |
+| --- | --- |
+| する | できる |
+| [来]{く}る | [来]{こ}られる |
+
+## Giving / Receiving
+
+When we want to say that we do something for someon, we use the て-form of the action verb + **あげる** (To give upwards because we are always below):
+
+> 私が　お姉さんに　本を　**読んであげる** = I read a book for my older sister
+
+When we receive, we use **くれる**:
+
+> お姉さんが　私に　本を　**読んでくれる** = I have my older sister read a book for me
+
+We can do the same thing with **もらう** but the emphasis different:
+
+| Verb | Meaning |
+| --- | --- |
+| **くれる** | she does something for me (her action emphasized) |
+| **もらう** | I receive something from her (my perspective emphasized) |
+
+## [物]{もの} vs [事]{こと}
+
+| [物]{もの} | [事]{こと} |
+| --- | --- |
+| Physical object | Abstract object |
+
+## と Particle
+
+Turns anything "quoted" before it, into a single noun.
+
+> [彼女]{かのじょ}は「[本]{ほん}が[好]{す}き」と[言]{い}った。
