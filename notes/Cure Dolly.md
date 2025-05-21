@@ -233,3 +233,31 @@ We can do the same thing with **もらう** but the emphasis different:
 Turns anything "quoted" before it, into a single noun.
 
 > [彼女]{かのじょ}は「[本]{ほん}が[好]{す}き」と[言]{い}った。
+
+## Receptive あ-stem + れる/られる
+
+> Receive or get.
+
+さくらが　しか**ら**　**れた** = Sakura got scolded
+
+みずが　の**ま**　**れた** = Water got drunk
+
+さくらは　だれかに　かばんが　めす**ま**　**れた** = As for Sakura, a bag got stolen by someone
+
+さくらが　だれかに　かばんを　めす**ま**　**れた** = Sakura got her bag stolen by someone
+
+## Self-move / Other-move
+
+A self move verb is a verb that indicates that the subject is doing the action to itself.
+
+An other-move verb is a verb that indicates that the subject is doing the action to something else.
+
+> [出]{で}る = to leave (self-move) <br> [出]{だ}す = to take out (other-move)
+
+| Self | Other |
+| --- | --- |
+| **ある** | **する** |
+| ～あ-stem + る | ～す・～せる |
+| ～む | ～める |
+| ～ぶ | ～べる |
+| ～つ | ～てる |
