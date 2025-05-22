@@ -234,6 +234,10 @@ Turns anything "quoted" before it, into a single noun.
 
 > [彼女]{かのじょ}は「[本]{ほん}が[好]{す}き」と[言]{い}った。
 
+と+する means "enacting the action of the verb". Often used with the volitional form, meaning "to try to do something".
+
+> やまに　のぼろう　とする = To do (try) "Let's climb the mountain" = To try to climb the mountain
+
 ## Receptive あ-stem + れる/られる
 
 > Receive or get.
@@ -261,3 +265,31 @@ An other-move verb is a verb that indicates that the subject is doing the action
 | ～む | ～める |
 | ～ぶ | ～べる |
 | ～つ | ～てる |
+
+## Causative あ-stem + せる/させる
+
+Cause someone to do something.
+
+> いぬ**を**　たべ　**させた** = I caused the dog to eat
+
+We can use を or に to indicate the target of the action.
+
+But we cannot use を more than once in the same sub-clause.
+
+> いぬ**に**　にく**を**　たべ　**させた** = I caused the dog to eat meat
+
+## Causative-receptive あ-stem + せられる/させられる
+
+Get-made to do something.
+
+> 私は　ケーキを　たべた = I ate the cake
+
+> ケーキは　私に　たべられた = The cake was eaten by me
+
+> 父は　私に　ケーキを　たべさせた = My father caused me to eat the cake
+
+> 私は　父に　ケーキを　たべさせられた = I was made to eat the cake by my father
+
+It's easier to understand if we think of who is doing the action and who is receiving it.
+
+"I was made to eat the cake" clearly indicates that I am the one doing the action of "receiving caused to eat" by my father.

@@ -25,3 +25,4 @@
 | Verb［た］+ こと + が + ある<br>Verb［た］+ こと + が + ない | Verb［た］+ こと + が + あります<br>Verb［た］+ こと + が + ありません | Have done before |
 | Verb［て］+ いる<br>Verb［て］+ る<br>Verb［~~て~~］ + **と**る | Verb［て］+ います<br>Verb［て］+ ます<br>Verb［~~て~~］ + **と**ります | Has/have done, Is doing (Repetition)<br>Often associated with [毎日]{まいにち}, [毎晩]{まいばん}, [毎週]{まいしゅう} |
 | ［い］Adjective［~~い~~］ + く + て<br>［な］Adjective + で<br> Noun + で |  | Linking - Like 'and' in English.<br>Reasons - Like 'with (A)', or 'because of (A)' in English.<br>Manner - Like 'to do (B) in an (A) way' in English. |
+| い-stem + みる |  | Do it and see |
