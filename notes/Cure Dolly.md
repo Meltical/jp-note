@@ -293,3 +293,53 @@ Get-made to do something.
 It's easier to understand if we think of who is doing the action and who is receiving it.
 
 "I was made to eat the cake" clearly indicates that I am the one doing the action of "receiving caused to eat" by my father.
+
+## こ・そ・あ・ど
+
+| Location Word | れ (Pronoun) | の (Possessive) | な (Comparing Adjectival) | ～う・～あ Extended (Describing actions) |
+| --- | --- | --- | --- | --- |
+| ここ (here) | これ (this) | この (this-smth) | こんな (Like this) | こう (In this way) |
+| そこ (there) | それ (that) | その (that-smth) | そんな (Like that) | そう (In that way) |
+| あそこ (over there) | あれ (that over there) | あの (that-smth) | あんな (Like that) | ああ (In that way) |
+| どこ (where) | どれ (which) | どの (How-described) | どんな (Like what ?) | どう (How / In what way ?) |
+
+## て～いる・て～ある・て～あく
+
+### 1. ～ている (te-iru)
+
+This form is used to express:
+
+- Ongoing actions: **今、テレビを　見ている。** (I am watching TV now.)
+- Resultant states from past actions: **結婚　している。** (I am married.)
+- Habitual actions: **毎朝　ジョギングを　している。** (I jog every morning.)
+
+> Verb in て-form + いる
+
+---
+
+### 2. ～てある (te-aru)
+
+Used to describe the **state that remains after a purposeful action has been completed**. Often used for objects being prepared or set.
+
+- **まどが　開けて　ある。** (The door has been opened [by someone] and remains open.)
+
+> Transitive verb in て-form + ある  
+> (Implies intentionality and result)
+
+Here the subject is **being** opened. The **window** is **being** opened.
+
+---
+
+### 3. ～ておく (te-oku)
+
+[置く]{おく} means "to put" or "to place". The form ～ておく is used to express the idea of placing something in a certain state
+おく is
+Expresses the
+
+- **私がは　窓を　開けて　おく**　 (I put the window in state of being opened.)
+
+> Verb in て-form + おく  
+> (Can also contract to ～とく in casual speech)
+
+Here the subject is **putting** something in a certain state.
+**I** am **putting** the window in a state of being opened.
