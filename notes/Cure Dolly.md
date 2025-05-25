@@ -343,3 +343,55 @@ Expresses the
 
 Here the subject is **putting** something in a certain state.
 **I** am **putting** the window in a state of being opened.
+
+## ～という
+
+という is used to quote something, like a name or a title.
+Some abreviations of という are:
+
+- **ていう**: アニメ**というものは**面白いね。
+- **っていう**: アニメ**っていう**面白いね。
+- **って**: アニメ**って**面白いね。
+
+> “The thing called anime is interesting, huh.”
+
+## だって
+
+### Someone said (だ＋という)
+
+(／が)　明日は　[晴]{は}れだ　**って** = Tomorrow is sunny, they said.
+
+---
+
+### But/Because (だ＋って)
+
+When we use だって, or ですね in response of a sentence, we are acknowledging the information and adding something to it.
+
+> A：　きれいな　かわ　です　！　B：　ですね　！
+
+Here B is implying : (ほんとう)　ですね　！
+
+> B：　だから。。。
+
+Here B is implying: From fact A, ...
+
+> A：　さくらが　きれい　だね　！　B：　だって　[頭]{あたま}が　[弱]{よは}い。
+
+> A: Sakura is beautiful, huh! B: You said that, but she is not smart."
+
+The だ in だって acknowledges the information, and the って adds a nuance of "you said that, but...".
+But it does not mean litterally "but", more like "you said that, but I have something to add in contradiction".
+
+**だって has a slightly negative nuance, and childish tone.**
+
+---
+
+### Even I / Say it's me
+
+> さくらが　できる = Sakura can do it
+
+> 私だって　できる = Even I can do it
+
+In this context, it means "Even I can do it", as in "It's not that hard".
+
+Without context 「私だって　できる」mean "Even I say I can do it", without sounding negative.
