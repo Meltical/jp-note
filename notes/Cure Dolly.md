@@ -395,3 +395,78 @@ But it does not mean litterally "but", more like "you said that, but I have some
 In this context, it means "Even I can do it", as in "It's not that hard".
 
 Without context 「私だって　できる」mean "Even I say I can do it", without sounding negative.
+
+# Likeliness / Conjecture そう　→　らしい・っぽい　→　ようだ・みたい・まるで
+
+## そう (Seems like or Hearsay)
+
+### Seems like
+
+> Noun : 元気**そうな**　子供　(From 元気な)
+> Seems like a healthy child
+
+> Verb : 雨が　**[降]{ふ}りそう**だ (From [降]{ふ}る)
+> Seems like it will rain
+
+> Adjective : おいし**そう** (From おいしい)
+> Looks delicious
+
+---
+
+### Hearsay
+
+After a complete sentence, we can add そうだ or そうです
+
+> さくらが　にほんじんだ　**そうだ** = I heard that Sakura is Japanese.
+
+## らしい (Subjective quality)
+
+**Fun fact: ~しい Adjectives are used to decribe subjective qualities.**
+
+> おいしい・むずかしい・たのしい
+
+We can use **らしい** two ways:
+
+1. After a word, giving it a subjective quality.
+
+> 彼は　[日本人]{にほんじん}らしい = He seems like a Japanese person
+
+2. After a sentence, indicating that the statement itself is subjective (deduction/hearsay..).
+
+> 彼は　[日本人]{にほんじん}らしい = I heard that he is Japanese
+
+**～っぽい** is also used like らしい, but it is more casual and only attached to a word.
+
+---
+
+Exemple:
+
+子供**らしい** is more likely to imply the child's behaving in a way proper to a child.
+
+子供**っぽい** tends to mean childish.
+
+## ようだ・みたい・まるで
+
+**まるで** means "roundly" / "wholy" = "completely" / "entirely".
+
+It is an hyperbolic expression that signals the coming of a metaphor.
+
+> **This is why it can't bet used with そう or らしい**
+
+ex: [まるで]{Completly}　[ゆうれい]{a ghost}を　[見た]{seen}　[か]{if}　**のような**　[顔]{face}をした
+
+Here **か** transforms the logical sentence into a noun (as a question, an "if").
+
+This is why we can use **の**ような, since we can only attach **の** to nouns.
+
+- 山**のようだ** : noun
+- 山**のような**人 : adjectival noun
+- 風**のように**はしる : adverb
+
+---
+
+みたい is used the same way as ようだ, but it is more casual.
+
+- 山**みたいだ** : noun
+- 山**みたいな**人 : adjectival noun
+- 風**みたいに**はしる : adverb
