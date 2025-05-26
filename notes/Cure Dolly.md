@@ -470,3 +470,23 @@ This is why we can use **の**ような, since we can only attach **の** to nou
 - 山**みたいだ** : noun
 - 山**みたいな**人 : adjectival noun
 - 風**みたいに**はしる : adverb
+
+## ばかり (だ・です)
+
+Attached to a completed action, it means "Just" or "Nothing but"
+
+> 来た　ばかり = I just came
+
+> 甘い物　ばかりだ = There's only but sweet things
+
+After the て-form, it means "Doing nothing but x"
+
+> 泣いて　ばかり = Crying all the time
+
+Using ばかり**か** as a "if", meaning changes to : ... not only but also ..
+
+> うたった　ばかりか　おどった = Not only did I sing, but I also danced
+
+Using ばかり**に**, it means "Only because of"
+
+> みみが　大きい　ばかりに、だれも　あそんで　くれない = Only because I have big ears, no one plays with me
