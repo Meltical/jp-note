@@ -471,6 +471,8 @@ This is why we can use **の**ような, since we can only attach **の** to nou
 - 山**みたいな**人 : adjectival noun
 - 風**みたいに**はしる : adverb
 
+よう means a "form" or a "likeness".
+
 ## ばかり (だ・です)
 
 Attached to a completed action, it means "Just" or "Nothing but"
@@ -490,3 +492,61 @@ Using ばかり**か** as a "if", meaning changes to : ... not only but also ..
 Using ばかり**に**, it means "Only because of"
 
 > みみが　大きい　ばかりに、だれも　あそんで　くれない = Only because I have big ears, no one plays with me
+
+## Becoming ように・ことに
+
+### ように
+
+When using **ように** after a logical clause, we are saying that "form" of the logical clause is the target of the action.
+
+It is often used with
+
+- **なる**: to indicate becoming something.
+
+> 彼を　信じる　ように　なった = I have come to believe him.
+
+- **する**: to indicate to make something enter a state.
+
+> 彼女は　よく見える　ように　する = To make her look good.
+
+Since it has a meaning of state, when we say ドアを閉めるようにしてください, it means "Please **make it so the door is in the state of being closed**".
+
+Also, we can use it to indicate a **wish or a desire**. 毎日歩くようにする = To make it so I walk every day.
+
+Sometimes we omit する like when wishing for something to happen.
+
+日本に　行きます　ように (してください) = I wish to go to Japan
+
+- Any action or sentence. To describe how the logical clause is done.
+
+> 彼女は　よく見える　ように　口べにを　[付]{つ}ける = To make her look good, she put on lipstick.
+
+---
+
+### ことに
+
+**ことに**する・**ことに**なる function similarly to ように in that they express changes in state or decisions:
+
+- ことに**する**: The speaker intentionally decides to do something (volitional).
+
+- ことに**なる**: A situation has been decided or changed without the speaker’s direct involvement (non-volitional).
+
+## と Conditional
+
+As seen before, と is the "exclusive and".
+
+> 冬になる　と、寒くなる = When it becomes winter, it will get cold.
+
+=> There is no other possibility than it getting cold. it is **Exclusive**
+
+> それを　たべる　と、　病気に　なる = If you eat that, you will get sick.
+
+=> Eating that and the only outcome is getting sick. It is an hyperbolic statement.
+
+> 行けない　と、　ダメ = If you can't go, it's bad.
+
+=> You don't go and it'll be bad. = Run!!!
+
+In all these cases, the と particle is used to indicate a **certain outcome** of an action. We could translate it as "If" or "When", but it is absolute and exclusive.
+
+## ば Conditional
