@@ -531,7 +531,9 @@ Sometimes we omit する like when wishing for something to happen.
 
 - ことに**なる**: A situation has been decided or changed without the speaker’s direct involvement (non-volitional).
 
-## と Conditional
+# Conditionals
+
+## と Conditional Exclusive
 
 As seen before, と is the "exclusive and".
 
@@ -549,4 +551,41 @@ As seen before, と is the "exclusive and".
 
 In all these cases, the と particle is used to indicate a **certain outcome** of an action. We could translate it as "If" or "When", but it is absolute and exclusive.
 
-## ば Conditional
+## ば・れば Conditional
+
+Attaches to the **え-stem**.
+
+| Source | Conditional |
+| --- | --- |
+| する | すれば |
+| くる | くれば |
+| Ichidan: たべる | 　たべれば |
+| Godan: かく | 　かけば |
+| Adjectives: おもしろい | おもしろければ |
+| Negative: ない | なければ |
+
+> どうそればいい = How should I act will be good ?
+
+> 勉強しなければ　いけない = If I don't study, It won't do.
+
+## たら・なら Conditional
+
+たら is formed on the past tense of a word.
+
+Event A must happen before event B. => Aたら、B
+
+Since event A will happen, we can use it to say "When A, then B"
+
+> にほんにいったら、　おみやげをかう = When I go to Japan, I will buy a souvenir.
+
+なら is used with the plain form of a word.
+
+If you are thinking of doing A, then B. => Aなら、B
+
+Most versatile one :
+
+> [I will go] それなら、　私もいく = If that's the case, I will go too.
+
+> にほｎにくるなら、　おしえてね。 = If you come to Japan, let me know.
+
+> さくらなら、できるよ。 = If it's Sakura, she can do it.
