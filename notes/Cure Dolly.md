@@ -589,3 +589,33 @@ Most versatile one :
 > にほｎにくるなら、　おしえてね。 = If you come to Japan, let me know.
 
 > さくらなら、できるよ。 = If it's Sakura, she can do it.
+
+## Setting the limit
+
+Ordered from the most limiting to the least limiting (a little -> neutral -> a lot)
+
+1. **しか** = no more than (in negative sentences)
+
+> １０００円しか　ない = I have only 1000 yen. (I don't have more than 1000 yen)
+
+2. **だけ** = limit / **のみ** = only (more formal)
+
+> １０００円**だけ**　ある = I have only 1000 yen. (1000 yen is the limit that I have)
+
+> できる**だけ**　勉強します = I will study as much as possible (I will study to the **limit of my ability**)
+
+3. **ばかり** = only (Hyperbolic, can mean "a lot")
+
+## より・ほう (一方)
+
+**より** = from (A<B)
+
+> メアリーよりさくらはきれいだ = Sakura is prettier than Mary.
+
+**ほう** = direction / side
+
+> さくらのほうがきれいだ = Sakura is prettier (than Mary).
+
+**[一方]{いっぽう}** = one side. At the start of a sentence, it means "On one side" or "On the other side".
+
+> 彼は勉強が好きな一方、私はゲームが好きです。= He likes studying, on the other hand, I like games.
