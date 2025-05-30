@@ -619,3 +619,24 @@ Ordered from the most limiting to the least limiting (a little -> neutral -> a l
 **[一方]{いっぽう}** = one side. At the start of a sentence, it means "On one side" or "On the other side".
 
 > 彼は勉強が好きな一方、私はゲームが好きです。= He likes studying, on the other hand, I like games.
+
+## Place
+
+Physical place : **[所]{ところ}**
+
+Can also mean "time" or "state" :
+
+-　さくらの**どこ**が好きですか？ = What do you like about Sakura?
+
+- [昼]{ひる}ご[飯]{はん}を　たべる　**ところ**だ = I am at the place where I eat lunch.　=> Immediate action
+
+- [昼]{ひる}ご[飯]{はん}を　たべた　**ところ**だ = I just ate lunch.
+
+> We can ommit ろ・ど from the **とこ(ろだ)**
+
+## Adjectival nouns
+
+- な
+- の
+- なる (のある) = かれい -> **なる**　たんてい
+- たる = らんらん **たる** <- め
