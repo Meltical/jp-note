@@ -640,3 +640,55 @@ Can also mean "time" or "state" :
 - の
 - なる (のある) = かれい -> **なる**　たんてい
 - たる = らんらん **たる** <- め
+
+## か Particle
+
+Putting the か particle at the end of a formal sentence, turns it into a question.
+
+Putting the か particle after a casual sentence makes it blunt or rude.
+
+> さくらが　来る**か**　分からない = I don't know if Sakura will come.
+
+**かどうか** = Whether or not
+
+> さくらが　来る**かどうか**　分からない = I don't know whether or not Sakura will come.
+
+In the middle of a sentence, it means "or".
+
+> お茶**か**　コーヒー　がいい？ = Do you want tea or coffee?
+
+物ですか = Is it a thing?　For short, もんか
+
+It is a rude way to say "No way!" or "As if!"
+
+> 俺が　負ける**もんか** = No way I will lose!
+
+## で / だ
+
+**で** is the て-form of the copula **だ**.
+
+- As an order
+
+When we use the て-form of a verb, we are often shortening てください.
+
+So we can say, お元気**で** = Be well (Please be well) -> お元気だ as an order.
+
+- As a connecting form
+
+無事**で**　よかった = I am glad that you are safe.
+
+## が as "but"
+
+The subject particle **が** can only be used after a noun.
+
+When we use が after a complete sentence, it means "but".
+
+> お店は　いったが　パンが　なかった = I went to the store, but there was no bread.
+
+At the end of a sentence, it can be used as a softener, to make a statement less direct.
+
+> コーヒーが　欲しいが = I want coffee (but... if you don't have any, that's okay).
+
+## に as "and"
+
+The particle **に** can be used to connect two nouns, meaning "and".
