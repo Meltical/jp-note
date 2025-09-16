@@ -692,3 +692,32 @@ At the end of a sentence, it can be used as a softener, to make a statement less
 ## に as "and"
 
 The particle **に** can be used to connect two nouns, meaning "and".
+
+## 3 types of nouns
+
+| Type | Notes | Example |
+| --- | --- | --- |
+| Adjectival Noun | Can use the な particle | **きれいな**川 |
+| する Noun | Can add する to transform into a verb | 勉強**する** -> 勉強が好きです |
+| Adverbial Noun | Can drop に or と | ゆっくりにする -> ゆっくりする |
+
+More on Adverbial nouns:
+
+- あまり: Excess
+
+  > 悲しみの**あまり**泣いた = I cried from excess sadness
+
+- [随分]{ずいぶん}: Sufficiently
+  > 彼は　**随分**　勉強した = He studied sufficiently
+
+## まま (Unchanged state)
+
+> [自然]{しぜん}のままの[森]{もり} = A forest in its natural state
+
+> そのまま食べられる？ = Can you eat it as is?
+
+We often see it used with 思い -> Meaning "as the unchanged thoughts" :
+
+> 思いのまま = As you wish (lit. as your thoughts are)
+
+> 思いのままに動けない = I can't move as I wish (lit. I can't move as my thoughts are)
