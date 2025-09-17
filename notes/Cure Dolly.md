@@ -721,3 +721,13 @@ We often see it used with 思い -> Meaning "as the unchanged thoughts" :
 > 思いのまま = As you wish (lit. as your thoughts are)
 
 > 思いのままに動けない = I can't move as I wish (lit. I can't move as my thoughts are)
+
+## Casual japanese : ちゃう・ちゃった
+
+**ちゃう** is a casual contraction of **てしまう**.
+
+しまう means "to finish" or "to complete".
+
+We can translate it as "It's done", as something accidentally happened, or something regrettable happened etc..
+
+> しまった = Lit. "That's the end" = "Damn it!"
